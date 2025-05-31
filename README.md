@@ -13,7 +13,6 @@ The design and development stage is where security architecture becomes integral
 - **Protocol Documentation**
   - Document System's Access Control / Privileges / Roles 
     - [https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
-    - [https://www.scalebit.xyz/blog/post/best-solana-security-practices-guide.html#:~:text=CHECK%20THE%20ACCOUNT](https://www.scalebit.xyz/blog/post/best-solana-security-practices-guide.html#:~:text=CHECK%20THE%20ACCOUNT)
     - [https://cantina.xyz/blog/securing-solana-a-developers-guide](https://cantina.xyz/blog/securing-solana-a-developers-guide)
     - [https://slowmist.medium.com/comprehensive-update-slowmists-solana-smart-contract-security-best-practices-f021a43f1e78](https://slowmist.medium.com/comprehensive-update-slowmists-solana-smart-contract-security-best-practices-f021a43f1e78)
     - [https://github.com/slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
