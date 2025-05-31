@@ -84,7 +84,8 @@ We strongly recommend partnering with us if you're committed to establishing sec
 
   - Passing an audit contest
   - Web app audit / pentesting:
-    -Awesome Web Security (GitHub List): [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+    - Awesome Web Security (GitHub List): 
+        -[https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 
   - Stress Testing
     - [https://github.com/Cetipoo/solana-rpc-benchmark-tool](https://github.com/Cetipoo/solana-rpc-benchmark-tool)
